@@ -1,0 +1,9 @@
+type:chairs
+in:y
+puzzle:
+loyyp
+lpygp
+lppgq
+lypyp
+lgrrp
+ygqyy

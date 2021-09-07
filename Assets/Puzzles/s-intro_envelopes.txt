@@ -1,0 +1,10 @@
+type:story
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:
+text:Good morning Jake,
+text:
+text:Please return all moved items to their respective locations, you are making it more difficult for everybody.
+text:
+text:Gaby C

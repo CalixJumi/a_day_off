@@ -1,0 +1,6 @@
+type:clothes
+out:y
+puzzle:
+--ol
+yybl
+ybbo

@@ -1,0 +1,6 @@
+type:story
+icon:env-postit
+sprite:p-postit
+text:Thanks for everything
+text:
+text:- Alice

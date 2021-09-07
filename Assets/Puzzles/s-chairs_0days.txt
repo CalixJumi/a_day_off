@@ -1,0 +1,13 @@
+type:story
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:
+text:THIS IS AN AUTOMATIC EMAIL
+text:PLEASE DON'T REPLY
+text:
+text:Reason - Accident at warehouse.
+text:
+text:A "tower" of chairs fell and activities had to stop for safety.
+text:
+text:0 days since the last accident.

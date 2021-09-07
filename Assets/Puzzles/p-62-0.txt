@@ -1,0 +1,7 @@
+type:complex
+in:r
+puzzle:
+yvrr
+qbbb
+ggot
+-rr-

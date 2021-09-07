@@ -1,0 +1,6 @@
+type:simple
+out:m
+puzzle:
+rryol
+yppyl
+mppyo

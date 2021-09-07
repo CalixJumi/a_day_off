@@ -1,0 +1,9 @@
+type:story
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:Jake
+text:
+text:You know the procedures.
+text:
+text:Gaby C.

@@ -1,0 +1,8 @@
+type:complex
+in:y,y
+out:r
+puzzle:
+lrrqoo
+lpggpl
+ypyypl
+ybbbyl

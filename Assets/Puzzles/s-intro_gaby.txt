@@ -1,0 +1,14 @@
+type:story
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:
+text:Good morning!
+text:
+text:I'm assigning you Jake's workload for today.
+text:
+text:Some other papers of him will probably slip... 
+text:Please ignore those.
+text:
+text:Thanks for your help Alice!
+text:Gaby C

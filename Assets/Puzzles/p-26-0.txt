@@ -1,0 +1,6 @@
+type:clothes
+out:v
+puzzle:
+vrrl
+bopl
+bbpo

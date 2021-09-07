@@ -1,0 +1,8 @@
+type:chairs
+in:g,g,q,q
+out:y,y
+puzzle:
+lo-l
+gyqg
+gqyg
+l-ol

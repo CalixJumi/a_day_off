@@ -1,0 +1,11 @@
+type:story
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:
+text:Good news!
+text:It has been 30 days since the last accident!
+text:
+text:Keep up the good work!
+text:
+text:Gaby C

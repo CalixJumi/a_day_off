@@ -1,0 +1,6 @@
+type:chairs
+out:y,y
+puzzle:
+ygo
+ygo
+yql

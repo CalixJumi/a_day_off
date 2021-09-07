@@ -1,0 +1,7 @@
+type:intro
+song:levelselect_song
+out:y,y
+puzzle:
+yyyo
+yyyo
+yyyl

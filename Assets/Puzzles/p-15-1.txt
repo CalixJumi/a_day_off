@@ -1,0 +1,7 @@
+type:simple
+out:m
+puzzle:
+opm
+ypp
+yyp
+--o

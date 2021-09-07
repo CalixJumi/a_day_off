@@ -1,0 +1,6 @@
+type:simple
+out:r
+puzzle:
+yyol
+yrrl
+yyyo

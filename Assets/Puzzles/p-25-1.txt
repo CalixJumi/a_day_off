@@ -1,0 +1,6 @@
+type:clothes
+out:d,d
+puzzle:
+ypyl
+dpyo
+drro

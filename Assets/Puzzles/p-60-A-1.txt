@@ -1,0 +1,7 @@
+type:music
+song:levelselect_song
+out:y
+puzzle:
+yvo
+mtl
+mml

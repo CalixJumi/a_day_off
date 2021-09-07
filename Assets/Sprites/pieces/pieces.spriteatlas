@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pieces
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 33
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 54741a6dcfa7f4ec9a46689484553327, type: 3}
+    - {fileID: 2800000, guid: bb5759326e8f842408ce45d24622c1e4, type: 3}
+    - {fileID: 2800000, guid: 3cda10b670c80435ba348035b1dd64d1, type: 3}
+    - {fileID: 2800000, guid: 6bceef6b96a004b5ab6c05f36d4b9f0e, type: 3}
+    - {fileID: 2800000, guid: 2ecd767a444844a4fb97da44234810cf, type: 3}
+    - {fileID: 2800000, guid: 667823ae237f04e70bf4685977d82d45, type: 3}
+    - {fileID: 2800000, guid: d9fbc6f13b5754439bd084696318bfaf, type: 3}
+    - {fileID: 2800000, guid: f94265f9b30bc4a758fe9335061005f7, type: 3}
+    - {fileID: 2800000, guid: c7405c73358674e529b984ea0ccbb322, type: 3}
+    - {fileID: 2800000, guid: 5c33344241c914fbc9d236c334dc5399, type: 3}
+    - {fileID: 2800000, guid: 449fe6997269c478885ce06d7e92be19, type: 3}
+    - {fileID: 2800000, guid: 2055d053720f74ad7b6e6baae5490265, type: 3}
+    - {fileID: 2800000, guid: e976d29be2352482ca762a32f2e0becd, type: 3}
+    - {fileID: 2800000, guid: 24ee9b8d71b4249319fccda0a2b112fc, type: 3}
+    - {fileID: 2800000, guid: 6f5aa0b0837644295a45515f9168a44b, type: 3}
+    - {fileID: 2800000, guid: 0aa7617a63650432fa6a77c8c539bf67, type: 3}
+    - {fileID: 2800000, guid: f991b0d4240b0426f840d8f9a6ab84cb, type: 3}
+    - {fileID: 2800000, guid: eea40a03f34cc4f2593aa2eb0b2d9e1b, type: 3}
+    - {fileID: 2800000, guid: 2f99f047ec00846c5bcec98c695c0165, type: 3}
+    - {fileID: 2800000, guid: 252aeb19026e545b1883758b1565395d, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6f5aa0b0837644295a45515f9168a44b, type: 3}
+  - {fileID: 21300000, guid: d9fbc6f13b5754439bd084696318bfaf, type: 3}
+  - {fileID: 21300000, guid: bb5759326e8f842408ce45d24622c1e4, type: 3}
+  - {fileID: 21300000, guid: 5c33344241c914fbc9d236c334dc5399, type: 3}
+  - {fileID: 21300000, guid: eea40a03f34cc4f2593aa2eb0b2d9e1b, type: 3}
+  - {fileID: 21300000, guid: 2055d053720f74ad7b6e6baae5490265, type: 3}
+  - {fileID: 21300000, guid: c7405c73358674e529b984ea0ccbb322, type: 3}
+  - {fileID: 21300000, guid: f991b0d4240b0426f840d8f9a6ab84cb, type: 3}
+  - {fileID: 21300000, guid: 3cda10b670c80435ba348035b1dd64d1, type: 3}
+  - {fileID: 21300000, guid: 2f99f047ec00846c5bcec98c695c0165, type: 3}
+  - {fileID: 21300000, guid: 252aeb19026e545b1883758b1565395d, type: 3}
+  - {fileID: 21300000, guid: 449fe6997269c478885ce06d7e92be19, type: 3}
+  - {fileID: 21300000, guid: f94265f9b30bc4a758fe9335061005f7, type: 3}
+  - {fileID: 21300000, guid: 0aa7617a63650432fa6a77c8c539bf67, type: 3}
+  - {fileID: 21300000, guid: 2ecd767a444844a4fb97da44234810cf, type: 3}
+  - {fileID: 21300000, guid: 6bceef6b96a004b5ab6c05f36d4b9f0e, type: 3}
+  - {fileID: 21300000, guid: e976d29be2352482ca762a32f2e0becd, type: 3}
+  - {fileID: 21300000, guid: 54741a6dcfa7f4ec9a46689484553327, type: 3}
+  - {fileID: 21300000, guid: 24ee9b8d71b4249319fccda0a2b112fc, type: 3}
+  - {fileID: 21300000, guid: 667823ae237f04e70bf4685977d82d45, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - bg-clothes
+  - pink-table
+  - blue-clothes
+  - purple-box
+  - bg-layers
+  - red-box
+  - pink-vynil
+  - bg-intro
+  - case-box
+  - bg-music
+  - bg-simple
+  - purple-clothes
+  - pink-tablevynil
+  - bg-complex
+  - green-chairh
+  - yellow-box
+  - surf-board
+  - big-box
+  - bg-chairs
+  - green-chairv
+  m_Tag: pieces
+  m_IsVariant: 0

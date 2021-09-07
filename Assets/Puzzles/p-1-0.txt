@@ -1,0 +1,6 @@
+type:intro
+song:levelselect_song
+out:y
+puzzle:
+ool
+yoo

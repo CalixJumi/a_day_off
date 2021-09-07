@@ -1,0 +1,6 @@
+type:layers
+in:p
+puzzle:
+lggo
+pqss
+pyyy

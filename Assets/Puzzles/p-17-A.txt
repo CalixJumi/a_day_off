@@ -1,0 +1,9 @@
+type:music
+in:m,m,m,m
+puzzle:
+------
+lmmoml
+lmooml
+lmooml
+-ommo-
+-ommo-

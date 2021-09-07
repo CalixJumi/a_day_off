@@ -1,0 +1,9 @@
+type:intro
+song:levelselect_song
+in:y,y,y,y,y,y
+puzzle:
+-yy-
+yooy
+yooy
+lool
+l--l

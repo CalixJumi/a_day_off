@@ -1,0 +1,11 @@
+type:complex
+song:sfx_wind
+out:a
+puzzle:
+pbbbqg
+pgaayg
+qgaarr
+rrpggv
+ctpqyp
+mddrrp
+-oooo-

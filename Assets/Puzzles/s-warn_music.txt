@@ -1,0 +1,4 @@
+type:story
+icon:env-warning
+sprite:p-warning
+drawing:d-warn_music

@@ -1,0 +1,8 @@
+type:simple
+in:p
+out:y
+puzzle:
+lyopl
+lpypl
+pppyl
+pypyo

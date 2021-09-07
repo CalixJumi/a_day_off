@@ -1,0 +1,6 @@
+type:chairs
+out:t
+puzzle:
+rryol
+yggpl
+tqypo

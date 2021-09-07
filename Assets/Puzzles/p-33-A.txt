@@ -1,0 +1,6 @@
+type:chairs
+in:g,q,g,q
+puzzle:
+-jiqg-
+ljgjgl
+lqgjil

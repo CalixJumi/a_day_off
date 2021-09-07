@@ -1,0 +1,12 @@
+type:story
+song:sfx_wind
+icon:env-email
+sprite:p-email
+drawing:d-blood
+alignment:top-left
+text:
+text:Jake
+text:
+text:I was informed of the last accident at the warehouse. Please go for a medical evaluation, then come to my office.
+text:
+text:Gaby C

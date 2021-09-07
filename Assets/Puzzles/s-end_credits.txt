@@ -1,0 +1,18 @@
+type:story
+icon:env-table
+sprite:p-table
+alignment:top-left
+text:   credits:
+text:
+text:   Coding        @calixjumio
+text:   Art           @calixjumio
+text:   Music         SchwartzSound
+text:
+text:   Testers - - - - - - - - -
+text:
+text:   Coby
+text:   Jorlu
+text:   Jenny R
+text:   Sergio
+text:   Fernando S
+text:   Luis R

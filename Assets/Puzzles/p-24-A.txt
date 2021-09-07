@@ -1,0 +1,7 @@
+type:clothes
+in:b,b,d,d
+puzzle:
+bood
+bood
+lool
+l--l

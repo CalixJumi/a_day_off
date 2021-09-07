@@ -1,0 +1,7 @@
+in: m
+out: y
+puzzle:
+oyo
+rrt
+trr
+--m

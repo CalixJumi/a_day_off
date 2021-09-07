@@ -1,0 +1,7 @@
+type:chairs
+out:p
+puzzle:
+pygol
+pygql
+ggrro
+qyyyo

@@ -1,0 +1,6 @@
+type:layers
+in:q,q,g,g
+puzzle:
+lvqg
+gssg
+gqcl

@@ -1,0 +1,15 @@
+type:story
+song:levelselect_loop
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:
+text:Jake
+text:
+text:We need you to complete all the work you had stashed since the last year for tomorrow, we found some of the lost papers so here you go. 
+text:
+text:We wont hire a replacement for Alice soon, we were ok before her anyways. 
+text:
+text:It needs to be finished for tomorrow.
+text:
+text:Gaby C

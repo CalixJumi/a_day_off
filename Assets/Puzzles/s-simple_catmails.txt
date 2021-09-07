@@ -1,0 +1,11 @@
+type:story
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:
+text:Jake
+text:
+text:Stop spamming everyone's tray with pictures of your cat
+text: 
+text:
+text:Gaby C

@@ -1,0 +1,7 @@
+type:chairs
+in:g,q
+out:y,y
+puzzle:
+gqyo
+gyyo
+lyyl

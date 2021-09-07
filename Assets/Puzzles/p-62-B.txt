@@ -1,0 +1,8 @@
+type:complex
+out:p
+puzzle:
+rrqg
+odyg
+pdij
+pyiy
+---o

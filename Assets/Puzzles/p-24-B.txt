@@ -1,0 +1,9 @@
+type:clothes
+in:d,d
+out:b,b
+puzzle:
+lyyb
+lybb
+lpop
+dpyp
+dyrr

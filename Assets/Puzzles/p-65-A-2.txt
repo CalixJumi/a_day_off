@@ -1,0 +1,12 @@
+type:complex
+tags:screenshake
+song:sfx_wind
+out:a
+puzzle:
+bbyyvp
+bvaagp
+rraagq
+cypyyd
+tmpqgd
+ssrrgt
+--oo--

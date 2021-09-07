@@ -1,0 +1,13 @@
+type:story
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:
+text:THIS IS AN AUTOMATIC EMAIL
+text:PLEASE DON'T REPLY
+text:
+text:Reason - Accident at kitchen.
+text:
+text:Microwave lit a formerly wet sweater on fire and activated the extinguishers.
+text:
+text:0 days since the last accident.

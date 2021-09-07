@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 9c404aa91101e45efa86f348871b497d
+  - enabled: 1
+    path: Assets/Scenes/PuzzleScene.unity
+    guid: f12126340742248cb9497e9cd2d94b73
+  - enabled: 1
+    path: Assets/Scenes/OptionsScene.unity
+    guid: 59c552b1e2c284cbc97b441363a04c6f
+  - enabled: 1
+    path: Assets/Scenes/OptionsHomeScene.unity
+    guid: 0402cc25013984795bcab8938d0dcad6
+  - enabled: 1
+    path: Assets/Scenes/NoteScene.unity
+    guid: e0364bba83e74413da5409e92923dbac
+  - enabled: 0
+    path: Assets/Scenes/LandingScene.unity
+    guid: 8310fec03a3404459bef4cd4b7870c9d
+  m_configObjects: {}

@@ -1,0 +1,8 @@
+type:layers
+in:y,g,q,s,c,g,q,v
+puzzle:
+-ssc-
+yooqg
+gossg
+gqyov
+l---l

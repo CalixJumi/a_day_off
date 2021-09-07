@@ -1,0 +1,6 @@
+type:simple
+out:p
+puzzle:
+oyrrl
+prryo
+pyrro

@@ -1,0 +1,6 @@
+type:layers
+out:c,c
+puzzle:
+ccpl
+sspo
+yrro

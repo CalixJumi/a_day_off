@@ -1,0 +1,4 @@
+type:story
+icon:env-postit
+sprite:p-postit
+drawing:d-shortcut

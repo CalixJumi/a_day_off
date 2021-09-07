@@ -1,0 +1,8 @@
+type:music
+in:t,t,t,t,t,t,t,t,t
+puzzle:
+-ttt-
+tooot
+tooot
+tooot
+l---l

@@ -1,0 +1,7 @@
+type:clothes
+song:levelselect_song
+out:y
+puzzle:
+ydo
+bdo
+bbl

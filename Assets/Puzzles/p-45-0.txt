@@ -1,0 +1,7 @@
+type:music
+in:y,y
+puzzle:
+ovrr
+mmpt
+rrpm
+--yy

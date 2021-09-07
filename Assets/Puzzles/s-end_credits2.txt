@@ -1,0 +1,10 @@
+type:story
+icon:env-table
+sprite:p-table
+alignment:top-left
+text:SPECIAL THANKS
+text:
+text:To family and friends who always support me, ex-coworkers who I miss and inspired this story, to the Finji discord community! and my other internet friends who keep up with my bs, to my dog Dugi,
+text:
+text:and of course to you!, 
+text:Thanks for playing!

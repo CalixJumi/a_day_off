@@ -1,0 +1,6 @@
+type:clothes
+song:levelselect_song
+out:y
+puzzle:
+byo
+bbl

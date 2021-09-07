@@ -1,0 +1,6 @@
+type:music
+out:r
+puzzle:
+mtml
+mmml
+rrvo

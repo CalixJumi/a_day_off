@@ -1,0 +1,7 @@
+type:music
+out:p
+puzzle:
+typ
+ypp
+opv
+--o

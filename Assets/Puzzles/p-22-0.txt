@@ -1,0 +1,6 @@
+type:clothes
+in:y
+puzzle:
+ypo
+lpy
+ldd

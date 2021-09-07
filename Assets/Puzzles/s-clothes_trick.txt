@@ -1,0 +1,4 @@
+type:story
+icon:env-blank
+sprite:p-blank
+drawing:d-clothes_t

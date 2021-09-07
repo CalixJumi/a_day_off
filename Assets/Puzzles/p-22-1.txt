@@ -1,0 +1,5 @@
+type:clothes
+in:y
+puzzle:
+yrrb
+lobb

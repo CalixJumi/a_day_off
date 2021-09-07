@@ -1,0 +1,6 @@
+type:intro
+song:levelselect_song
+in:y
+puzzle:
+yoy
+lyy

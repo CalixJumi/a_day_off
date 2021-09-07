@@ -1,0 +1,6 @@
+in:t
+out:y
+puzzle:
+obo
+rry
+t--

@@ -1,0 +1,6 @@
+type:layers
+out:c,s
+puzzle:
+cvpl
+yypl
+ssyo

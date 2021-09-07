@@ -1,0 +1,6 @@
+type:chairs
+out:t
+puzzle:
+ggyoo
+qyrrl
+trryl

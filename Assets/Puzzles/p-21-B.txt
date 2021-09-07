@@ -1,0 +1,6 @@
+type:clothes
+out:v
+puzzle:
+vyyol
+prrbl
+pybbo

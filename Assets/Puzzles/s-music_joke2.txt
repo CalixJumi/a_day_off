@@ -1,0 +1,9 @@
+type:story
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:
+text:
+text:I'm sorry though
+text:
+text:Gaby C

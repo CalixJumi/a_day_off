@@ -1,0 +1,7 @@
+type:music
+in:m,m,m
+puzzle:
+-vt-
+toov
+voot
+l--l

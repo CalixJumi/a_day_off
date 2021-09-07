@@ -1,0 +1,10 @@
+type:intro
+song:levelselect_song
+in:y,y
+out:y,y
+puzzle:
+ly---
+lyyyl
+lyyyl
+oyyyy
+-o---

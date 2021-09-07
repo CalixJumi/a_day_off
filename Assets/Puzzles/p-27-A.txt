@@ -1,0 +1,6 @@
+type:music
+in:v,v,v,v
+puzzle:
+vooov
+vomov
+lmmml

@@ -1,0 +1,5 @@
+type:clothes
+out:y
+puzzle:
+odo
+ydl

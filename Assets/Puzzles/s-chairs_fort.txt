@@ -1,0 +1,9 @@
+type:story
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:Jake
+text:
+text:Please dismantle the "chair fort".
+text:
+text:Gaby C.

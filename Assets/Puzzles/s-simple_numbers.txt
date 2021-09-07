@@ -1,0 +1,12 @@
+type:story
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:
+text:Hey Alice!
+text:
+text:If you have trouble you can always skip a level.
+text:
+text:It's called delegation.
+text:
+text:Gaby C

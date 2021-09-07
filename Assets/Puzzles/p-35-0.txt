@@ -1,0 +1,6 @@
+type:chairs
+out:r
+puzzle:
+oyypo
+yggpo
+rrqyl

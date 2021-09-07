@@ -1,0 +1,7 @@
+type:simple
+song:levelselect_song
+out:y
+puzzle:
+rryo
+prrl
+prrl

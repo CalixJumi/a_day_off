@@ -1,0 +1,5 @@
+out: y
+puzzle:
+ooo
+yol
+yyl

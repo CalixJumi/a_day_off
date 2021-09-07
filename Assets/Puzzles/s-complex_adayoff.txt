@@ -1,0 +1,11 @@
+type:story
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:Hey, Alice!
+text:
+text:I'm so sorry about all the trouble and your anger is justifiable. However we don't like the blame culture around here so please have that in mind.
+text:
+text:Please come at 9am for the sensibility training. Sadly that means we won't be able to allow your day off tomorrow.
+text:
+text:Gaby C

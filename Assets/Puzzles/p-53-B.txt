@@ -1,0 +1,6 @@
+type:layers
+out:s,s
+puzzle:
+okssl
+ykyyl
+sskko

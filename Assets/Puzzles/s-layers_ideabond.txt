@@ -1,0 +1,7 @@
+type:story
+icon:env-idea
+sprite:env-idea
+drawing:d-reject
+alignment:center
+text:"Use suitcases for a spy themed scavenger hunt"
+text:[REJECTED IDEA]

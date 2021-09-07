@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D611C300-3C0B-CAE5-F70D-D4AE312330CC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/OptionsController.cs" Line="61" Column="38" />
+      <File FileName="Assets/Scripts/LevelManager.cs" Line="477" Column="6" />
+      <File FileName="Assets/Scripts/SceneController.cs" Line="160" Column="38" />
+      <File FileName="Assets/Scripts/PuzzleController.cs" Line="93" Column="34" />
+      <File FileName="Assets/Scripts/DraggableBox.cs" />
+      <File FileName="Assets/NativeTouch/Demo/NativeTouchDemo.cs" />
+      <File FileName="Assets/Scripts/GameMakerInterface.cs" />
+      <File FileName="Assets/Scripts/CJButton.cs" />
+      <File FileName="Assets/Scripts/GMManager.cs" />
+      <File FileName="Assets/Scripts/EnvelopeModel.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b056f37f-70bd-4386-997c-8a4e5ad2893e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/CalixJumi/Desktop/calixjumio/Practice Games/StorageRoomPuzzles/Assets/Scripts/LevelManager.cs" relfile="Assets/Scripts/LevelManager.cs" line="115" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

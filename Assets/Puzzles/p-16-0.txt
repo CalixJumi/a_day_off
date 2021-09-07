@@ -1,0 +1,9 @@
+type:simple
+in:r
+puzzle:
+lyrry
+lrryp
+lypyp
+rrpyp
+lrryp
+lorry

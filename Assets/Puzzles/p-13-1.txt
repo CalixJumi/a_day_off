@@ -1,0 +1,6 @@
+type:simple
+out:p,r
+puzzle:
+lyypl
+oyypl
+orryo

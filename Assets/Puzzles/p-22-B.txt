@@ -1,0 +1,6 @@
+type:clothes
+out:v,v
+puzzle:
+vbpl
+bbpo
+rrvo

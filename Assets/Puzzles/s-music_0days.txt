@@ -1,0 +1,13 @@
+type:story
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:
+text:THIS IS AN AUTOMATIC EMAIL
+text:PLEASE DON'T REPLY
+text:
+text:Reason - Accident at offices.
+text:
+text:Heated argument between coworkers led to injuries and scratches on an asistant.
+text:
+text:0 days since the last accident.

@@ -1,0 +1,6 @@
+type:chairs
+out:t
+puzzle:
+oggo
+ytql
+yyyl

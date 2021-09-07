@@ -1,0 +1,9 @@
+type:story
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:
+text:
+text:NO JAKE IT WASN'T JUST "A JOKE"
+text:
+text:Gaby C

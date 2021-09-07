@@ -1,0 +1,6 @@
+type:clothes
+in:y
+puzzle:
+-y-
+yby
+obb

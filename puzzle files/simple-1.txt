@@ -1,0 +1,6 @@
+out: y
+puzzle:
+orr
+byp
+rrp
+oo-

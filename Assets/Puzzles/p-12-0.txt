@@ -1,0 +1,8 @@
+type:simple
+in:r
+out:y
+puzzle:
+lrryo
+lyrrl
+lrryl
+rryyl

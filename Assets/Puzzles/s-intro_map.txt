@@ -1,0 +1,3 @@
+type:story
+icon:env-company
+sprite:p-map

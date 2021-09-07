@@ -1,0 +1,9 @@
+type:story
+icon:env-card
+sprite:p-card
+drawing:d-petday
+text:Bring your pet 
+text:PARTY
+text:
+text:Saturday 4:00 pm
+text:At the park across the warehouse

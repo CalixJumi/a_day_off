@@ -1,0 +1,7 @@
+type:chairs
+song:levelselect_song
+out:y
+puzzle:
+yqgo
+kigl
+kijl

@@ -1,0 +1,6 @@
+type:layers
+out:c
+puzzle:
+gc
+gq
+o-

@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: bgs_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: cbbac6aed2aa24b719d475f3a98df847, type: 3}
+    - {fileID: 2800000, guid: 678c8e1a9676543efa485f23c0640f6f, type: 3}
+    - {fileID: 2800000, guid: 92f4c387fd7ed434c8e72cd069107f64, type: 3}
+    - {fileID: 2800000, guid: 249427ab93ee14c0f8ba1fa799e3314c, type: 3}
+    - {fileID: 2800000, guid: f658b2b1383d24c0a9ed5e1c76d1ac14, type: 3}
+    - {fileID: 2800000, guid: 64297b189dfe44570be4b04bf97337c4, type: 3}
+    - {fileID: 2800000, guid: 989a0b51638ae4c2d8335e03327c9bfe, type: 3}
+    - {fileID: 2800000, guid: dc35ad7b6c1fd47019c4c5c010572a6e, type: 3}
+    - {fileID: 2800000, guid: 08c1723f63cf34fc4a45598b8cbf3dd8, type: 3}
+    - {fileID: 2800000, guid: 13ce0fbc6a3a3497bb4deec83964988e, type: 3}
+    - {fileID: 2800000, guid: 02e309400badd4700a1cef50789f0b98, type: 3}
+    - {fileID: 2800000, guid: e4ca352124fa347ccbbd48b1749ec654, type: 3}
+    - {fileID: 2800000, guid: 551a002238f5d481a9521b96a8795c54, type: 3}
+    - {fileID: 2800000, guid: 39b26dc720eb4452f876ddf300923822, type: 3}
+    - {fileID: 2800000, guid: 23f9fbb5ffb264c81a7363f61e44f2f6, type: 3}
+    - {fileID: 2800000, guid: 6d45a1e116a814150a3f9f250e4591bf, type: 3}
+    - {fileID: 2800000, guid: 13bff238c384d4429a5c5d8329efe47b, type: 3}
+    - {fileID: 2800000, guid: 8489acf09a20248b1a4dbbc3286a1475, type: 3}
+    - {fileID: 2800000, guid: 652209d93e407497d9414c28cb74a1de, type: 3}
+    - {fileID: 2800000, guid: de50b7fe7cd134534aa02cd4a4e19ac7, type: 3}
+    - {fileID: 2800000, guid: d63a0219f6dc74ba18a0ed7936934f24, type: 3}
+    - {fileID: 2800000, guid: 5ca7b698103904d4b805a44a58a0a54a, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 02e309400badd4700a1cef50789f0b98, type: 3}
+  - {fileID: 21300000, guid: 8489acf09a20248b1a4dbbc3286a1475, type: 3}
+  - {fileID: 21300000, guid: e4ca352124fa347ccbbd48b1749ec654, type: 3}
+  - {fileID: 21300000, guid: 989a0b51638ae4c2d8335e03327c9bfe, type: 3}
+  - {fileID: 21300000, guid: f658b2b1383d24c0a9ed5e1c76d1ac14, type: 3}
+  - {fileID: 21300000, guid: 6d45a1e116a814150a3f9f250e4591bf, type: 3}
+  - {fileID: 21300000, guid: 551a002238f5d481a9521b96a8795c54, type: 3}
+  - {fileID: 21300000, guid: 23f9fbb5ffb264c81a7363f61e44f2f6, type: 3}
+  - {fileID: 21300000, guid: 92f4c387fd7ed434c8e72cd069107f64, type: 3}
+  - {fileID: 21300000, guid: 39b26dc720eb4452f876ddf300923822, type: 3}
+  - {fileID: 21300000, guid: 64297b189dfe44570be4b04bf97337c4, type: 3}
+  - {fileID: 21300000, guid: 13bff238c384d4429a5c5d8329efe47b, type: 3}
+  - {fileID: 21300000, guid: 5ca7b698103904d4b805a44a58a0a54a, type: 3}
+  - {fileID: 21300000, guid: d63a0219f6dc74ba18a0ed7936934f24, type: 3}
+  - {fileID: 21300000, guid: 652209d93e407497d9414c28cb74a1de, type: 3}
+  - {fileID: 21300000, guid: 678c8e1a9676543efa485f23c0640f6f, type: 3}
+  - {fileID: 21300000, guid: dc35ad7b6c1fd47019c4c5c010572a6e, type: 3}
+  - {fileID: 21300000, guid: 249427ab93ee14c0f8ba1fa799e3314c, type: 3}
+  - {fileID: 21300000, guid: 13ce0fbc6a3a3497bb4deec83964988e, type: 3}
+  - {fileID: 21300000, guid: cbbac6aed2aa24b719d475f3a98df847, type: 3}
+  - {fileID: 21300000, guid: de50b7fe7cd134534aa02cd4a4e19ac7, type: 3}
+  - {fileID: 21300000, guid: 08c1723f63cf34fc4a45598b8cbf3dd8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - bg_level_table
+  - bg_rooms_top2
+  - bg_rooms
+  - backgrounds_simple
+  - backgrounds_layers
+  - bg_rooms_bot2
+  - bg_rooms3
+  - bg_rooms_bot
+  - backgrounds_complex
+  - bg_rooms_back2
+  - backgrounds_music
+  - bg_rooms_top
+  - table
+  - shape_texture
+  - menu_options
+  - backgrounds_clothes
+  - bg_level
+  - backgrounds_intro
+  - bg_level_middle
+  - backgrounds_chairs
+  - pizzabg
+  - bg_level_ground
+  m_Tag: bgs_atlas
+  m_IsVariant: 0

@@ -1,0 +1,10 @@
+type:story
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:Good morning team!
+text:
+text:For safety reasons please avoid using any sweater near the clothing units. 
+text:
+text:Thanks
+text:Gaby C

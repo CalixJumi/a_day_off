@@ -1,0 +1,7 @@
+type:clothes
+in:y
+out:d,d
+puzzle:
+ypyo
+lpyo
+lddl

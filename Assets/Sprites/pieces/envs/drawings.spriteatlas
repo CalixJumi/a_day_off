@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: drawings
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f39245239d99748cc90f095f2c5dab18, type: 3}
+    - {fileID: 2800000, guid: 52721b5dd8f5d47b1804a786e27bae95, type: 3}
+    - {fileID: 2800000, guid: fc0374e6ba15d41d49c0d2ac7e04a6e0, type: 3}
+    - {fileID: 2800000, guid: 307becd88a824495597c0cb40db44d4e, type: 3}
+    - {fileID: 2800000, guid: 2d4d52719fe7f4ed4acba334ea07846d, type: 3}
+    - {fileID: 2800000, guid: 2fa4886145f8f4c7aac84276a3694fad, type: 3}
+    - {fileID: 2800000, guid: beb36aeac98894118b0d4e0556818569, type: 3}
+    - {fileID: 2800000, guid: f53e99fa747964f2685476dd88b26dab, type: 3}
+    - {fileID: 2800000, guid: 2d0d48a71071a4b4a863ec653cb6a57e, type: 3}
+    - {fileID: 2800000, guid: 37234b7a82efc428cabef720937566a9, type: 3}
+    - {fileID: 2800000, guid: 8749314e7378b441aa3041fc4d2cc8a6, type: 3}
+    - {fileID: 2800000, guid: 6032698224709495b9b4f3bec26e1fcf, type: 3}
+    - {fileID: 2800000, guid: fd68d4b2b499649aaa0dee306430f8cd, type: 3}
+    - {fileID: 2800000, guid: 419290decb1df41bca8bd870912eb86f, type: 3}
+    - {fileID: 2800000, guid: ec14f5472e1b840759996d9f7e4146b1, type: 3}
+    - {fileID: 2800000, guid: c067944d74c284d949bbf54cb795c06c, type: 3}
+    - {fileID: 2800000, guid: efaa811ecbcf74428a802b4b37265633, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2fa4886145f8f4c7aac84276a3694fad, type: 3}
+  - {fileID: 21300000, guid: 2d4d52719fe7f4ed4acba334ea07846d, type: 3}
+  - {fileID: 21300000, guid: 6032698224709495b9b4f3bec26e1fcf, type: 3}
+  - {fileID: 21300000, guid: fd68d4b2b499649aaa0dee306430f8cd, type: 3}
+  - {fileID: 21300000, guid: f39245239d99748cc90f095f2c5dab18, type: 3}
+  - {fileID: 21300000, guid: fc0374e6ba15d41d49c0d2ac7e04a6e0, type: 3}
+  - {fileID: 21300000, guid: ec14f5472e1b840759996d9f7e4146b1, type: 3}
+  - {fileID: 21300000, guid: 2d0d48a71071a4b4a863ec653cb6a57e, type: 3}
+  - {fileID: 21300000, guid: 307becd88a824495597c0cb40db44d4e, type: 3}
+  - {fileID: 21300000, guid: 37234b7a82efc428cabef720937566a9, type: 3}
+  - {fileID: 21300000, guid: beb36aeac98894118b0d4e0556818569, type: 3}
+  - {fileID: 21300000, guid: f53e99fa747964f2685476dd88b26dab, type: 3}
+  - {fileID: 21300000, guid: c067944d74c284d949bbf54cb795c06c, type: 3}
+  - {fileID: 21300000, guid: 52721b5dd8f5d47b1804a786e27bae95, type: 3}
+  - {fileID: 21300000, guid: efaa811ecbcf74428a802b4b37265633, type: 3}
+  - {fileID: 21300000, guid: 8749314e7378b441aa3041fc4d2cc8a6, type: 3}
+  - {fileID: 21300000, guid: 419290decb1df41bca8bd870912eb86f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - d-reject
+  - d-elecman
+  - d-warn_layers
+  - d-warn_music
+  - d-approve
+  - d-castle
+  - d-warn_stack2
+  - d-warn_chair2
+  - d-clothes_t
+  - d-warn_clothes
+  - d-shortcut
+  - d-warn_chair
+  - d-process
+  - d-blood
+  - d-process2
+  - d-warn_fire
+  - d-warn_stack
+  m_Tag: drawings
+  m_IsVariant: 0

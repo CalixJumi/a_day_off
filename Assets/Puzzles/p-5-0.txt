@@ -1,0 +1,6 @@
+type:clothes
+song:levelselect_song
+in:b
+puzzle:
+bod
+lyd

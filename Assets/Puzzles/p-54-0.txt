@@ -1,0 +1,6 @@
+type:layers
+out:c
+puzzle:
+cqyl
+ggyl
+yrro

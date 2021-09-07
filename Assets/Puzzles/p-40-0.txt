@@ -1,0 +1,5 @@
+type:music
+in:v
+puzzle:
+lmm
+vtm

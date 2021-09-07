@@ -1,0 +1,7 @@
+type:complex
+in:p
+out:y
+puzzle:
+lyvbb
+prrbq
+pocgg

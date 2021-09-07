@@ -1,0 +1,7 @@
+type:music
+out:y
+puzzle:
+yvp
+yyp
+trr
+o--

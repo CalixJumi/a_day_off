@@ -1,0 +1,12 @@
+type:story
+icon:env-notebook
+sprite:p-notebook
+alignment:left
+text:
+text:Hey, Alice!
+text:
+text:I'll be out for today to attend "special" training. Will be back tomorrow, maybe.
+text:
+text:Check out the fort for me, ok?
+text:
+text:Jake

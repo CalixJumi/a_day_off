@@ -1,0 +1,6 @@
+type:chairs
+out:t
+puzzle:
+pyol
+pygl
+tqgo

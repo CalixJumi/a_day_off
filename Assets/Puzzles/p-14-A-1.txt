@@ -1,0 +1,7 @@
+type:simple
+in:p,p
+puzzle:
+prrol
+porrl
+lrrop
+lorrp

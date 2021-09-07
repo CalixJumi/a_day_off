@@ -1,0 +1,9 @@
+type:complex
+song:sfx_wind
+in:y
+puzzle:
+lsspo
+lrrpc
+lgqdd
+lgbbq
+yvbgg

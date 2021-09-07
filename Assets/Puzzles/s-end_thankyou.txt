@@ -1,0 +1,7 @@
+type:story
+icon:env-postit
+sprite:p-postit
+text:Thank you
+text:for playing!
+text:
+text:@calixjumio

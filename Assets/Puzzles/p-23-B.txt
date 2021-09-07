@@ -1,0 +1,7 @@
+type:clothes
+in:d,d
+out:v,v
+puzzle:
+pvol
+pvyd
+rryd

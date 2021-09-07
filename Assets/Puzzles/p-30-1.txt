@@ -1,0 +1,7 @@
+type:chairs
+in:y
+out:y
+puzzle:
+ooo
+ggy
+yql

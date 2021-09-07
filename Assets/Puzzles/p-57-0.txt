@@ -1,0 +1,8 @@
+type:layers
+in:r
+puzzle:
+yypv
+sspq
+gcgg
+gqrr
+-rr-

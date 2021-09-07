@@ -1,0 +1,9 @@
+type:simple
+out:y,y,y,y
+puzzle:
+l--ol
+lrryl
+oyrrl
+lrryo
+lrryl
+---ol

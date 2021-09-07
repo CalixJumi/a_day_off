@@ -1,0 +1,6 @@
+type:music
+out:p
+puzzle:
+trrl
+pyyo
+pvyo

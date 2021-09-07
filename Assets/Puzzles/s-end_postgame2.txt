@@ -1,0 +1,13 @@
+type:story
+song:levelselect_loop
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:
+text:Jake
+text:
+text:Thanks for all your hard work through the years, once you finish your remaining tasks please come to the office to talk about signing your resignation.
+text:
+text:It would be for our mutual best interests if you departed in good terms.
+text:
+text:Gaby C

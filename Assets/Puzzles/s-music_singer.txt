@@ -1,0 +1,12 @@
+type:story
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:
+text:Good morning team.
+text:
+text:Please refrain from showing animosity towards artistic figures like Harry Hoster.
+text:We wont accept such intolerance.
+text:
+text:Thanks.
+text:Gaby C

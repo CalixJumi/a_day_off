@@ -1,0 +1,14 @@
+type:story
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:
+text:THIS IS AN AUTOMATIC EMAIL
+text:PLEASE DON'T REPLY
+text:
+text:Reason - Accident at warehouse.
+text:
+text:A product fell on an assistant and suffered minor damage. 
+text:The assistant however got a bruise on his head.
+text:
+text:0 days since the last accident.

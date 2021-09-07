@@ -1,0 +1,14 @@
+type:story
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:
+text:Hello everyone!
+text:
+text:Friendly reminder
+text:
+text:Make sure to get the [R]etrieved stamp on your papers.
+text:It will require a new stamp per transaction.
+text:
+text:Thanks!
+text:Gaby C

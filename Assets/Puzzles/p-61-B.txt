@@ -1,0 +1,6 @@
+type:complex
+out:g
+puzzle:
+bbgvo
+bqgdl
+trrdl

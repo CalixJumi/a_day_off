@@ -1,0 +1,8 @@
+type:story
+icon:aaa
+sprite:aaa
+drawing:aaa
+alignment:top-left
+text:aaa
+text:aaa
+text:aaa

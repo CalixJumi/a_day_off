@@ -1,0 +1,7 @@
+type:story
+icon:env-idea
+sprite:env-idea
+drawing:d-approve
+alignment:center
+text:"New area for untracked or unassigned products"
+text:[APPROVED IDEA] 

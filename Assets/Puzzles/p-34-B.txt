@@ -1,0 +1,7 @@
+type:chairs
+out:t
+puzzle:
+yorrl
+yprrl
+tpggl
+rrqoo

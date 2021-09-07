@@ -1,0 +1,10 @@
+type:story
+icon:env-email
+sprite:p-email
+alignment:top-left
+text:
+text:Jake
+text:
+text:Report to my office, we need to talk about your submitted feedback
+text:
+text:Gaby C

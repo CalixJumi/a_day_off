@@ -1,0 +1,7 @@
+type:layers
+out:v
+puzzle:
+vyyl
+ggyl
+qssl
+yrro

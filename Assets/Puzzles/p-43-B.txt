@@ -1,0 +1,7 @@
+type:music
+out:r
+puzzle:
+ovrr
+mvpm
+rrpm
+--tt
